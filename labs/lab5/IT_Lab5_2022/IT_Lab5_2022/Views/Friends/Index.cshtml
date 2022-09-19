@@ -1,0 +1,54 @@
+﻿@model IEnumerable<IT_Lab5_2022.Models.Friend>
+
+@{
+    ViewBag.Title = "Friends";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="friendsTable" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Friend_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MestoZiveenje)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Friend_Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MestoZiveenje)
+                </td>
+                <td>
+                    @if (User.IsInRole("Administrator") || User.IsInRole("Manager"))
+                    {
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) 
+                    } |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @if (User.IsInRole("Administrator") || User.IsInRole("Manager"))
+                    {
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,36 @@
+﻿@model List<IT_Lab3_2022.Models.FriendModel>
+@{
+    ViewBag.Title = "ShowFriends";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>All friends</h2>
+
+    <table class="table table-bordered table-responsive">
+        <thead>
+            <tr>
+                <td>Friend ID.</td>
+                <td>Friend Name</td>
+                <td>Place</td>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @{ 
+                int i = 0;
+                foreach (var friend in Model)
+                {
+                    friend.Id = i++;
+                    <tr>
+                        <td>@friend.Friend_Id</td>
+                        <td>@friend.Ime</td>
+                        <td>@friend.MestoZiveenje</td>
+                        <td>
+                            @Html.ActionLink("Edit", "UpdateFriend", new { id = friend.Id }, new {@class="btn btn-default"})
+                            @Html.ActionLink("Delete", "DeleteFriend", new { id = friend.Id}, new {@class = "btn btn-default"})
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
