@@ -1,0 +1,28 @@
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.exe
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.deps.json
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.runtimeconfig.json
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.runtimeconfig.dev.json
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.dll
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.pdb
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.csproj.AssemblyReference.cache
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.AssemblyInfoInputs.cache
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.AssemblyInfo.cs
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.csproj.CoreCompileInputs.cache
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.dll
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.pdb
+C:\Users\majav\OneDrive\Desktop\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.genruntimeconfig.cache
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.exe
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.deps.json
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.runtimeconfig.json
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.runtimeconfig.dev.json
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.dll
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\bin\Debug\netcoreapp3.1\ConsoleAppLab1.pdb
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.csproj.AssemblyReference.cache
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.AssemblyInfoInputs.cache
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.AssemblyInfo.cs
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.csproj.CoreCompileInputs.cache
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.dll
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.pdb
+C:\Users\majav\OneDrive\SCHOOL\3. FAKULTET\CETVRT SEMESTAR\Internet Tehnologii\GAMK\IT_Lab1\ConsoleAppLab1\ConsoleAppLab1\obj\Debug\netcoreapp3.1\ConsoleAppLab1.genruntimeconfig.cache
